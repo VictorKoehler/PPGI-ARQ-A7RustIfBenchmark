@@ -1,0 +1,5 @@
+pop 10 0.1
+sum 4 4 1
+multiply 2 2 10
+print
+bench 100

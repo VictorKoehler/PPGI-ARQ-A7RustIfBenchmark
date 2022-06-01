@@ -1,0 +1,10 @@
+pop results: 950000/1000000
+Benchmark results: 143.549067794
+pop results: 950000/1000000
+Benchmark results: 142.761371340
+pop results: 950000/1000000
+Benchmark results: 142.634512867
+pop results: 950000/1000000
+Benchmark results: 142.119573853
+pop results: 950000/1000000
+Benchmark results: 142.202108527
